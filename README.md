@@ -1,7 +1,7 @@
 # Modern Data Analytics is Migrating From On Prem Data to Cloud Insights with Lakehouse Governance
 
-**Published:** 2025-08-19
-**Medium:** [https://medium.com/@kyle-t-jones/modern-data-analytics-is-migrating-from-on-prem-data-to-cloud-insights-with-lakehouse-governance-25864472a237](https://medium.com/@kyle-t-jones/modern-data-analytics-is-migrating-from-on-prem-data-to-cloud-insights-with-lakehouse-governance-25864472a237)
+Published: 2025-08-19
+Medium: [https://medium.com/@kyle-t-jones/modern-data-analytics-is-migrating-from-on-prem-data-to-cloud-insights-with-lakehouse-governance-25864472a237](https://medium.com/@kyle-t-jones/modern-data-analytics-is-migrating-from-on-prem-data-to-cloud-insights-with-lakehouse-governance-25864472a237)
 
 ## About
 
