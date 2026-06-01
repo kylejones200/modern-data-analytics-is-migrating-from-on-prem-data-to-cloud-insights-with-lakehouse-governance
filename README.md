@@ -11,14 +11,7 @@ On the left, the enterprise holds data that remains on-premises. This includes s
 
 The cloud side of the diagram shows how those barriers can be broken down. Data ingestion services bring raw inputs into the platform, where infrastructure services provide the foundation for scaling compute and storage. At this point, Databricks' Lakehouse approach comes into focus. Instead of separating storage, processing, and analytics into different systems, the Lakehouse unifies them into a single environment. Ingested data lands directly in Delta Lake, where it is structured into Bronze, Silver, and Gold tiers. This eliminates the need for separate data warehouses and lakes, which is the problem the Lakehouse philosophy was built to solve.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
